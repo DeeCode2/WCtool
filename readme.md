@@ -5,7 +5,6 @@ CCWC is a command line WC tool
 ## Usage
 
 ```python
-import foobar
 
 # returns number of bytes in a given file
 python ccwc.py -c test.txt
